@@ -1,0 +1,7 @@
+Magic classes:
+
+__construct
+__destruct
+__set($property, $value)
+__get($property)
+__call($method, $arg_array)
